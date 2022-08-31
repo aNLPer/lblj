@@ -10,7 +10,7 @@ __pycache__/
 .idea/
 
 # 数据集
-dataset/
+data/
 
 # Distribution / packaging
 .Python
